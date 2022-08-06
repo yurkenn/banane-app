@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42003552878",
+    "project_id": "patika-first-project",
+    "storage_bucket": "patika-first-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42003552878:android:0a2fc13d8eaf8c3a0ba47f",
+        "android_client_info": {
+          "package_name": "com.bananev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42003552878-to0iad0old7c4m4n7f6jb7r1m53num88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-iP25EL67puCon0_WnZXm8Er6tIYr9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42003552878-to0iad0old7c4m4n7f6jb7r1m53num88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
