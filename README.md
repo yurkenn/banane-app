@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/69719126/209134605-5e43e9a8-0773-40e4-9a0d-50b798694259.png" width="222" height="480" />
 <img src="https://user-images.githubusercontent.com/69719126/209134648-84c90e5b-e58c-4940-918b-117dfab034fa.png" width="222" height="480" />
 <img src="https://user-images.githubusercontent.com/69719126/209134680-f54feff5-fca5-4c93-b915-6a904d544fba.png" width="222" height="480" />
-
+<img src="https://user-images.githubusercontent.com/69719126/209135557-6e08a3a3-17a8-47ef-a045-8d69dd4027f9.png" width="222" height="480" />
 </div>
 
 ## Setup
@@ -22,7 +22,7 @@
 ## Features
 - You can login and create an account 
 - You can write your thoughts and talk with random people 
-
+- You can click the 'banene'. That means dislike
 
 ## Beginning 
 Clone this repository on your local machine.
